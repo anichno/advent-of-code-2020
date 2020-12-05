@@ -65,7 +65,6 @@ func main() {
 		}
 		if id-seatIDs[i-1] == 2 {
 			fmt.Println("Part 2:", id-1)
-			// break
 		}
 	}
 }
